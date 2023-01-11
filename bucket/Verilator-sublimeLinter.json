@@ -1,6 +1,6 @@
 {
-    "version": "1.5.0(4.016)",
-    "description": "👌 Modified version of Verilator for real time linting (single file based) on Sublime Text. ",
+    "version": "1.5.0",
+    "description": "👌 Modified version of Verilator(4.016) for real time linting (single file based) on Sublime Text. ",
     "homepage": "https://github.com/poucotm/verilator",
     "license": "LGPL-3.0 license",
     "architecture": {
