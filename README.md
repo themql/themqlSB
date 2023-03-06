@@ -12,3 +12,4 @@ scoop bucket add themqlSB https://github.com/themql/themqlSB
 | universal-ctags         | 6.0.0              |
 | Verible                 | 0.0-2577-g3daabcac |
 | Verilator-sublimeLinter | 1.5.0              |
+| gtkwave                 | 3.3.100            |
