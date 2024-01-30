@@ -9,7 +9,6 @@ scoop bucket add themqlSB https://github.com/themql/themqlSB
 | app                     |
 | ----------------------- |
 | gtkwave                 |
-| kmonad                  |
 | svls                    |
 | Verible                 |
 | Verilator-sublimeLinter |
