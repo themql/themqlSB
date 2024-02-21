@@ -12,3 +12,4 @@ scoop bucket add themqlSB https://github.com/themql/themqlSB
 | svls                    |
 | Verible                 |
 | Verilator-sublimeLinter |
+| im-select               |
