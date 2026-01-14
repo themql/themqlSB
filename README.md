@@ -13,3 +13,4 @@ scoop bucket add themqlSB https://github.com/themql/themqlSB
 | Verible                 |
 | Verilator-sublimeLinter |
 | im-select               |
+| rime-wanxiang-updater   |
