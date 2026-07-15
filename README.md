@@ -8,10 +8,11 @@ scoop bucket add themqlSB https://github.com/themql/themqlSB
 
 | app                     |
 | ----------------------- |
+| Verilator-sublimeLinter |
 | gtkwave                 |
+| im-select               |
+| rime-wanxiang-update    |
+| rime-wanxiang-updater   |
+| roguelikefansband-zh-cn |
 | svls                    |
 | Verible                 |
-| Verilator-sublimeLinter |
-| im-select               |
-| rime-wanxiang-updater   |
-| rime-wanxiang-update    |
